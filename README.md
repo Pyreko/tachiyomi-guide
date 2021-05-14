@@ -10,7 +10,7 @@ This is the Kaguya server’s unofficial guide to setting up Tachiyomi. This gui
 
 Note that this is also not an official support guide from Tachiyomi, free to check out their own user guide if you need to, especially if something isn’t covered in this guide.
 
-This is an updated version of the very outdated and old guide from before. You can still read that here if you want.
+This is an updated version of the very outdated and old guide from before. You can still read that [here](https://docs.google.com/document/d/1W63bvk9CmkFYa9JM_5pVJgacHlowK7wewIAJk1KGRkQ/) if you want.
 
 ---
 
