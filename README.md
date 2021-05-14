@@ -1,8 +1,4 @@
-# A Guide on How to Use Tachiyomi
-
-Last Updated: 2021-05-13
-
-Tachiyomi version used during writing: r3346
+# A Guide on How to Use Tachiyomi <!-- omit in toc -->
 
 This is the Kaguya server’s unofficial guide to setting up Tachiyomi. This guide is focused on the basics:
 
@@ -15,6 +11,24 @@ This is the Kaguya server’s unofficial guide to setting up Tachiyomi. This gui
 Note that this is also not an official support guide from Tachiyomi, free to check out their own user guide if you need to, especially if something isn’t covered in this guide.
 
 This is an updated version of the very outdated and old guide from before. You can still read that here if you want.
+
+---
+
+- [What is Tachiyomi?](#what-is-tachiyomi)
+  - [Wait, what do you mean, “Android only”?](#wait-what-do-you-mean-android-only)
+- [So why should I use Tachiyomi?](#so-why-should-i-use-tachiyomi)
+- [How do I install Tachiyomi?](#how-do-i-install-tachiyomi)
+- [How do I read manga?](#how-do-i-read-manga)
+- [How do I get updates for manga?](#how-do-i-get-updates-for-manga)
+- [How do I set up tracking?](#how-do-i-set-up-tracking)
+- [Other things you might want to do](#other-things-you-might-want-to-do)
+  - [Setting up backups](#setting-up-backups)
+  - [Adjusting the reader](#adjusting-the-reader)
+- [Common problems](#common-problems)
+  - [All my Mangadex entries don’t work!](#all-my-mangadex-entries-dont-work)
+- [Problems? Mistakes? Issues?](#problems-mistakes-issues)
+
+---
 
 ## What is Tachiyomi?
 
@@ -219,3 +233,9 @@ If you find any errors with this guide (ie: outdated steps, typos, or other mist
 If you can’t get it to work, try to Google or look around the app. What might work is using the dev version of the app if you’re using stable, or vice versa.
 
 If you wish to ask someone about something in regards to issues setting it up, again, you’re probably best off asking Tachiyomi devs on their Discord and Github. Please don’t ask me, or people on the Kaguya server if you haven’t tried other steps first. We aren’t tech support.
+
+---
+
+Last Updated: 2021-05-13
+
+Tachiyomi version used during writing: r3346
