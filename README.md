@@ -239,3 +239,5 @@ If you wish to ask someone about something in regards to issues setting it up, a
 Last Updated: 2021-05-13
 
 Tachiyomi version used during writing: r3346
+
+Repository can be found [here](https://github.com/Pyreko/tachiyomi-guide).
